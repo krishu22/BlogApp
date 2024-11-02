@@ -1,0 +1,6 @@
+1. blog - create, get, show all, delete, edit
+2. profile - update profile, update pfp, delete user, get a user, get all users
+3. rating - create, get avg on a post, get all on a post, get all of a user 
+4. category - create, get, show all
+5. comment - create, show all on a post, show a user's comments
+6. user - get admins, get creators, get readers, get posts, show likes

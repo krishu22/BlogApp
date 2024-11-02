@@ -1,0 +1,11 @@
+1. npm init -y
+2. npm i express, nodemon
+
+trim:true
+whitespaces would be removed 
+
+createblog, getblogdetails, showallblogs, deleteblog, editblog, createcategory, getcategorydetails, showallcategories, createcomment, deletecomment, showcommentsonblog, showusercomments, updateprofile, updateprofilepicture, deleteuser, getuser, createrating, getblogratings, getuserratings, getadmins, gtecreators, getreaders, getposts, showfavorites
+
+
+
+// id agar object me ayr parameters k sth bhejo toh work ni krti but akele bhejke work kr jati h
